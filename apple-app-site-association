@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "2Q822FUNZG.ru.aladdin.testWebView",
+                "appID": "2Q822FUNZG.ru.aladdin.JCWebClient",
                 "paths": [ "*" ]
             }
         ]
