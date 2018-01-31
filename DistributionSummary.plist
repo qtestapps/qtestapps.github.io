@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>testWebView.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A4A8483DD428CFA118D8A31505A98B0912016962</string>
+				<key>dateExpires</key>
+				<string>22.01.2019</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>2Q822FUNZG.ru.aladdin.testWebView</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:qtestapps.github.io</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>2Q822FUNZG</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>testWebView.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>58e3409e-89b1-4c33-98a3-a5388271a467</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: ru.aladdin.testWebView</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>2Q822FUNZG</string>
+				<key>name</key>
+				<string>Aladdin R.D. ZAO</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
