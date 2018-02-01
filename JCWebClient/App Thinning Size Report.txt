@@ -1,0 +1,43 @@
+
+App Thinning Size Report for All Variants of JCWebClient
+
+Variant: JCWebClient-iPad (4th generation)-etc.ipa
+Supported devices: iPad (3rd generation), iPad (4th generation), iPhone 5, and iPhone 5c
+App + On Demand Resources size: 46 KB compressed, 137 KB uncompressed
+App size: 46 KB compressed, 137 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: JCWebClient-iPad 2-etc.ipa
+Supported devices: iPad 2 and iPad mini
+App + On Demand Resources size: 46 KB compressed, 137 KB uncompressed
+App size: 46 KB compressed, 137 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: JCWebClient-iPad mini 2-etc.ipa
+Supported devices: iPad (5th generation), iPad Air, iPad Air 2, iPad Pro (12.9-inch), iPad mini 2, iPad mini 3, iPad mini 4, iPhone 5s, iPhone 6, iPhone 6 Plus, iPhone 6s, iPhone 6s Plus, iPhone SE, and iPod touch (6th generation)
+App + On Demand Resources size: 47 KB compressed, 138 KB uncompressed
+App size: 47 KB compressed, 138 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: JCWebClient-iPhone 8 Plus-etc.ipa
+Supported devices: iPad Pro (10.5-inch), iPad Pro (12.9-inch) (2nd generation), iPad Pro (9.7-inch), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, and iPhone X
+App + On Demand Resources size: 47 KB compressed, 137 KB uncompressed
+App size: 47 KB compressed, 137 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: JCWebClient-iPod touch-etc.ipa
+Supported devices: iPhone 4S and iPod touch
+App + On Demand Resources size: 46 KB compressed, 137 KB uncompressed
+App size: 46 KB compressed, 137 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: JCWebClient.ipa
+Supported devices: Universal
+App + On Demand Resources size: 66 KB compressed, 234 KB uncompressed
+App size: 66 KB compressed, 234 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
