@@ -19,6 +19,34 @@
 				<key>type</key>
 				<string>iOS Distribution</string>
 			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A4A8483DD428CFA118D8A31505A98B0912016962</string>
+						<key>dateExpires</key>
+						<string>22.01.2019</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>JCWebClientServices.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2Q822FUNZG</string>
+						<key>name</key>
+						<string>Aladdin R.D. ZAO</string>
+					</dict>
+				</dict>
+			</array>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
@@ -37,9 +65,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>c8f1d557-e8d9-48cc-98ce-5c8bd45a6961</string>
+				<string>61bf6569-9685-460d-b83d-6dc955013dc7</string>
 				<key>name</key>
-				<string>jcwebclient</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: ru.aladdin.JCWebClient</string>
 			</dict>
 			<key>team</key>
 			<dict>
