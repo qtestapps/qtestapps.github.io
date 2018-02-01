@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>compileBitcode</key>
-	<false/>
+	<true/>
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
@@ -29,6 +29,6 @@
 	<key>teamID</key>
 	<string>2Q822FUNZG</string>
 	<key>thinning</key>
-	<string>&lt;thin-for-all-variants&gt;</string>
+	<string>&lt;none&gt;</string>
 </dict>
 </plist>
