@@ -5,15 +5,7 @@
             {
                 "appID": "2Q822FUNZG.ru.aladdin.JCWebClient",
                 "paths": [ "*" ]
-            },
-            {
-                "appID": "2Q822FUNZG.ru.aladdin.testWebView",
-                "paths": [ "*" ]
-            },
-            {
-                "appID": "2Q822FUNZG.ru.aladdin.testApp",
-                "paths": [ "*" ]
-            },
+            }
         ]
     }
 }
