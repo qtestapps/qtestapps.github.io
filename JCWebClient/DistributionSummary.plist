@@ -65,9 +65,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>61bf6569-9685-460d-b83d-6dc955013dc7</string>
+				<string>c8f1d557-e8d9-48cc-98ce-5c8bd45a6961</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: ru.aladdin.JCWebClient</string>
+				<string>jcwebclient</string>
 			</dict>
 			<key>team</key>
 			<dict>

@@ -15,8 +15,15 @@
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>ru.aladdin.JCWebClient</key>
+		<string>jcwebclient</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>iPhone Distribution</string>
 	<key>signingStyle</key>
-	<string>automatic</string>
+	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
